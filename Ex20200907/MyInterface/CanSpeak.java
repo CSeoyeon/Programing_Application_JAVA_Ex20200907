@@ -1,8 +1,8 @@
-package MyInterface;
+package Ex20200907.MyInterface;
 /**
- * í”„ë¡œê·¸ë˜ë° ì‘ìš©1 ê¸°ë§ê³ ì‚¬ ì—°ìŠµ 
+ * ?”„ë¡œê·¸?˜ë°? ?‘?š©1 ê¸°ë§ê³ ì‚¬ ?—°?Šµ 
  *
- * @author (2019315027 ìµœì„œì—°)
+ * @author (2019315027 ìµœì„œ?—°)
  * @version (2020.09.07)
  */
 public interface CanSpeak
