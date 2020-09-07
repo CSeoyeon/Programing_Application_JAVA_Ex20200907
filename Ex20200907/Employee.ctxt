@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Employee
+comment0.text=\r\n\ \uD504\uB85C\uADF8\uB798\uBC0D\ \uC751\uC6A91\ \uAE30\uB9D0\uACE0\uC0AC\ \uC5F0\uC2B5\ \r\n\r\n\ @author\ (2019315027\ \uCD5C\uC11C\uC5F0)\r\n\ @version\ (2020.09.07)\r\n
+comment1.params=
+comment1.target=double\ pay()
+comment2.params=
+comment2.target=java.lang.String\ toString()
+numComments=3
