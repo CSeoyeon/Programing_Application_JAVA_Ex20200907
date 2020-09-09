@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Staff
+comment0.text=\r\n\ \uD504\uB85C\uADF8\uB798\uBC0D\ \uC751\uC6A91\ \uAE30\uB9D0\uACE0\uC0AC\ \uC5F0\uC2B5\ \r\n\r\n\ @author\ (2019315027\ \uCD5C\uC11C\uC5F0)\r\n\ @version\ (2020.09.07)\r\n
+comment1.params=name\ salary
+comment1.target=Staff(java.lang.String,\ int)
+comment2.params=
+comment2.target=double\ pay()
+comment3.params=
+comment3.target=void\ say()
+numComments=4

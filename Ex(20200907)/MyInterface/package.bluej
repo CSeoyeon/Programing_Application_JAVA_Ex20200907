@@ -1,0 +1,27 @@
+#BlueJ package file
+objectbench.height=220
+objectbench.width=385
+package.divider.horizontal=0.6004901960784315
+package.divider.vertical=0.44815891472868213
+package.editor.height=179
+package.editor.width=561
+package.editor.x=419
+package.editor.y=366
+package.frame.height=512
+package.frame.width=687
+package.numDependencies=0
+package.numTargets=1
+package.showExtends=true
+package.showUses=true
+readme.height=58
+readme.name=@README
+readme.width=47
+readme.x=10
+readme.y=10
+target1.height=50
+target1.name=CanSpeak
+target1.showInterface=false
+target1.type=InterfaceTarget
+target1.width=80
+target1.x=160
+target1.y=10
